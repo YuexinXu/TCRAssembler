@@ -49,6 +49,7 @@ Batch1_*/
 # README files (except main README.md)
 Script/README_*.md
 Script/README.md
+SETUP_GITHUB.md
 
 # OS files
 .DS_Store
@@ -65,4 +66,8 @@ from_Chris/
 
 # Templates zip
 Templates.zip
+
+# Setup files
+SETUP_GITHUB.md
+Batch1_*.txt
 
