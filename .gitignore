@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test scripts and folders
+Script/Test/
+
+# Input files (except sample)
+Input/hERV/
+Input/*.xlsx
+Input/*.fasta
+
+# Output directories
+Output/
+Output_*/
+hERV_output/
+Test_result/
+Batch1_*/
+
+# Temporary and backup files
+*.log
+*.tmp
+*.bak
+*.zip
+*.docx
+*.pdf
+*.xdna
+~$*
+
+# README files (except main README.md)
+Script/README_*.md
+Script/README.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Protocol and documentation drafts
+Protocol/
+
+# From Chris folder
+from_Chris/
+
+# Templates zip
+Templates.zip
+
