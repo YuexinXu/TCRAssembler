@@ -377,8 +377,8 @@ If you use this package in your research, please cite:
 
 ```
 TCRAssembler
-[Your Name/Institution]
-[Year]
+[Yuexin Xu/Fred Hutchinson Cancer Center]
+[2026]
 ```
 
 ### IMGT Database
@@ -394,8 +394,8 @@ If you use this package in a scientific publication, please cite:
 ```bibtex
 @software{tcr_assembler,
   title = {TCRAssembler: A Python Package for TCR Sequence Assembly},
-  author = {[Your Name]},
-  year = {2025},
+  author = {[Yuexin Xu]},
+  year = {2026},
   url = {https://github.com/[your-username]/TCRAssembler}
 }
 ```
